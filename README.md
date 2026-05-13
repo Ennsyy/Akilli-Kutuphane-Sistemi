@@ -11,6 +11,6 @@ Bu proje, Kastamonu Üniversitesi Tosya MYO Programlama II dersi için hazırlan
 
 ## Kullanım
 1. Python yüklü olduğundan emin olun.
-2. `main.py` dosyasını çalıştırın.
+2. `app.py` dosyasını çalıştırın.
 
 **Hazırlayan:** Muzaffer Enes Haklı - 255815035
