@@ -37,4 +37,6 @@ Kullanıcı ile etkileşim kuran ana kontrolcü dosyasıdır.
 ├── kitap.py              # 📖 Kitap nesne kalıbı
 └── kutuphane_verisi.txt  # 💾 Verilerin saklandığı kalıcı dosya (CSV formatında)
 
+---
+
 **Hazırlayan:** Muzaffer Enes Haklı - 255815035
